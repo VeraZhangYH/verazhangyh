@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋, I am Vera! </h1>
 
 ###
 
-<p align="left">My name is Vera, and I'm a CS grad student from the University of Pennsylvania.</p>
+<p align="left">My name is Vera Zhang, and I'm a CS grad student from the University of Pennsylvania.</p>
 
 ###
 
