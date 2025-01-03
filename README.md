@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 MCIT '25 @ UPenn<br>📚 I'm currently learning AI Agent<br>🎯 Amazon Ex-Engineer Intern<br>🎲 Grace Hopper Celebration Scholar</p>
+<p align="left">🎓 MCIT '25 @ UPenn<br>📚 I'm currently learning AI Agent<br>
 
 ###
 
